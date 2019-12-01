@@ -46,9 +46,39 @@
 <p></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/WuxXDeClLB0" width="560"></iframe></p>
 <h4>week7</h4>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/uXmV_d6MP4I" width="560"></iframe></p>
+<p>網際 V-rep 模型控制</p>
+<ol>
+<li>先到Task1裡，下載V-rep 3.6.1 rev 4.7z和 web_vrep2.zip。</li>
+<li>將兩個檔案都解壓縮在自己的隨身碟tmp裡面。</li>
+<li>打開自己的start_mdecourse，輸入regedit開啟程式。</li>
+<li>將HKEY_CLASSES_ROOT內的，.py和.py_auto_le刪除。</li>
+<li>開啟web_vrep2的app.py，點Tools的Go。</li>
+<li>再點開剛剛載好的V-REP3\V-REP_PRO_EDU &gt; vrep.exe 。</li>
+<li>開啟後將web_vrep2的two_wheeler.ttt拖移進去。</li>
+<li>到http://127.0.0.1:5000/裡面，就可以操控了。</li>
+</ol>
 <p></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/0Z_kFuPI0NY" width="560"></iframe></p>
 <p>與互相評分。</p>
+<p>新增啟動與停止按鈕</p>
+<p>1.進入2b Task 1的 #14 ，準備操作。</p>
+<p>2.開啟start_mdecoursr，進入web_vrep2。</p>
+<p>3.編輯templates裡面的controls.html。</p>
+<p>4.加入start 和 stop 的botton，直接複製改。</p>
+<p>5.編輯vrep_linefollower.py，if加入判斷式。 if direction == 'start': vrep.simxStartSimulation(self.clientID, vrep.simx_opmode_oneshot) if direction == 'stop': vrep.simxStopSimulation(self.clientID, vrep.simx_opmode_oneshot)</p>
+<p>6.補上else: ，完成後儲存，記得語法要排好。</p>
+<p>7.開啟v-rep程式，將two_wheeler.ttt檔案拖入。</p>
+<p>8.再開啟app.py 的go進入網址localhost:5000。</p>
+<p>9.這樣子就可以進行start 以及 stop的操作了。</p>
+<p></p>
+<p>Solvespace 納入學號</p>
+<p>1.先到自己tmp下的solvespace\build\src\CMakeFiles\solvespace.dir。</p>
+<p>2.刪掉solvespace.cpp.obj檔案，開啟start_mdecourse。</p>
+<p>3.再到solvespace\src找到solvespace.cpp用編輯器打開。</p>
+<p>4.Ctrl+f 搜尋GPL，把Message下面的This is SolveSpace 。</p>
+<p>5.改成This is SolveSpace is compiled by 40723210。</p>
+<p>6.進入solvespace\build，輸入mingw32-make，等待完成。</p>
+<p>7.開啟solvespace.exe，點help &gt; about 就完成了驗證。</p>
 <h2>Week10~14</h2>
 <h2>Week15~18</h2>
 <h1>About</h1>
