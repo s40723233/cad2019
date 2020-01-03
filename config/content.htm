@@ -89,7 +89,87 @@
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/yt0tGqDGZso" width="560"></iframe></p>
 <p>Week 16</p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/D-JsYBmJvZM" width="560"></iframe></p>
-<p></p>
+<h3><span>W17 協同任務</span></h3>
+<p><span>We rename the new shape (with a double-click on its name in the <a href="http://www.coppeliarobotics.com/helpFiles/en/userInterface.htm#SceneHierarchy">scene hierarchy</a><span>) as<span> </span></span><em>robot_dyn</em></span></p>
+<p><span>我們將新形狀（在</span><a href="http://www.coppeliarobotics.com/helpFiles/en/userInterface.htm#SceneHierarchy"><span>場景層次結構中</span></a><span>雙擊其名稱）重命名為</span><em><span>robot_dyn</span></em></p>
+<p><span>assign it to visibility layer 9,</span></p>
+<p><span>將其分配給可見性層9，</span></p>
+<p><span>then copy it to the original scene.</span></p>
+<p><span>然後將其複製到原始場景。</span></p>
+<p><span>The rest of the links will be modelled as convex shapes, or compound convex shapes. We now select the first mobile link (i.e. object <em>robot_link1</em><span>)</span></span></p>
+<p><span>其餘鏈接將建模為凸形或複合凸形。現在，我們選擇第一個移動鏈接（即對象</span><em><span>robot_link1</span></em><span>）</span></p>
+<p><span>We rename it to <em>robot_link_dyn1</em><span><span> </span>and assign it to visibility layer 9.</span></span></p>
+<p><span>並使用[菜單欄-&gt;添加-&gt;選擇的凸包]從中生成凸形。我們將其重命名為</span><em><span>robot_link_dyn1</span></em><span>並將其分配給可見性層9。</span></p>
+<p><span>When extracting the convex hull doesn't retain enough details of the original shape,</span></p>
+<p><span>當提取凸包沒有保留足夠的原始形狀細節時，</span></p>
+<p><span>then you could still manually extract several convex hulls from its composing elements</span></p>
+<p><span>您仍然可以從其組成元素中手動提取多個凸包，</span></p>
+<p><span> then group all the convex hulls with [Menu bar --&gt; Edit --&gt; Grouping/Merging --&gt; Group selected shapes]. </span></p>
+<p><span>如果這似乎有問題或很耗時，則可以使用[菜單欄-&gt;添加-&gt;選擇的凸分解...]自動提取凸分解的形狀：</span></p>
+<p><span>If that appears to be problematic or time consuming, then you can automatically extract a convex decomposed shape with [Menu bar --&gt; Add --&gt; Convex decomposition of selection...]:</span></p>
+<p><span>如果這似乎有問題或很耗時，則可以使用[菜單欄-&gt;添加-&gt;選擇的凸分解...]自動提取凸分解的形狀：</span></p>
+<p align="center"><img src="http://www.coppeliarobotics.com/helpFiles/en/images/modelTut16.jpg"/></p>
+<p class="imageLabel"><span><span>[Original shape, and convex shape pendant]</span></span></p>
+<p class="imageLabel"><span><span>[原始形狀和凸形吊墜]</span></span></p>
+<p><span> </span></p>
+<p align="center"><img src="http://www.coppeliarobotics.com/helpFiles/en/images/modelTut17.jpg"/></p>
+<p class="imageLabel"><span><span>[Original shape, and convex decomposed shape pendant]</span></span></p>
+<p class="imageLabel"><span><span>[原始形狀和凸形分解形狀吊墜]</span></span></p>
+<p><span> </span></p>
+<p><span><span>We now repeat the same procedure for all remaining robot links.</span></span></p>
+<p><span><span>現在，我們對所有剩餘的機器人鏈接重複相同的過程。</span></span></p>
+<p><span><span>Once that is done, we attach each visible shape to its corresponding invisible dynamic pendant.</span></span></p>
+<p><span><span>完成後，我們將每個可見的形狀附加到其相應的不可見的動態吊墜上。</span></span></p>
+<p><span><span>We do this by selecting first the visible shape, then via control-click selecting its dynamic pendant then [Menu bar --&gt; Edit --&gt; Make last selected object parent].</span></span></p>
+<p><span><span>為此，我們先選擇可見的形狀，然後按住Control鍵並單擊以選擇其動態吊墜，然後選擇[菜單欄-&gt;編輯-&gt;將最後選擇的對象設為父對象]。</span></span></p>
+<p><span><span>The same result can be achieved by dragging the visible shape onto its dynamic pendant in the <a href="http://www.coppeliarobotics.com/helpFiles/en/userInterface.htm#SceneHierarchy">scene hierarchy</a><span>:</span></span></span></p>
+<p><span><span>通過將可見形狀拖動到</span></span><a href="http://www.coppeliarobotics.com/helpFiles/en/userInterface.htm#SceneHierarchy"><span><span>場景層次</span></span></a><span><span>中的動態吊墜上，可以達到相同的結果</span><span>：</span></span></p>
+<p align="center"><img src="http://www.coppeliarobotics.com/helpFiles/en/images/modelTut18.jpg"/></p>
+<p class="imageLabel"><span><span>[Visible shapes attached to their dynamic pendants]</span></span></p>
+<p class="imageLabel"><span><span>[可見的形狀附加到動態吊墜上]</span></span></p>
+<p><span> </span></p>
+<p><span><span>We still need to take care of a few things: </span></span></p>
+<p><span><span>我們仍然需要注意一些事項：</span></span></p>
+<p>first, since we want the dynamic shapes only visible to the physics engine, but not to the other calculation modules,</p>
+<p><span>首先，由於我們希望動態形狀僅對物理引擎可見，而對其他計算模塊不可見</span><span>，</span></p>
+<p>we uncheck all <strong>object special properties</strong><span><span> </span>for the dynamic shapes, in the<span> </span></span><a href="http://www.coppeliarobotics.com/helpFiles/en/commonPropertiesDialog.htm">object common properties</a><span>.</span></p>
+<p><span><span>因此在</span><a href="http://www.coppeliarobotics.com/helpFiles/en/commonPropertiesDialog.htm"><span>對象通用屬性中</span></a><span>取消選中</span><span>動態形狀的</span><span>所有</span></span><strong><span><span>對象特殊屬性</span></span></strong><span><span>。</span></span></p>
+<p><span><span>Then, we still have to configure the dynamic shapes as <em>dynamic</em><span><span> </span>and<span> </span></span><em>respondable</em><span>.</span></span></span></p>
+<p><span><span><span>然後，我們仍然必須將動態形狀配置為<em><span><span>dynamic</span></span></em><span><span>和</span></span><em><span><span>responseable</span></span></em><span><span>。</span></span></span></span></span></p>
+<p><span><span><span> We do this in the<span> </span></span><a href="http://www.coppeliarobotics.com/helpFiles/en/shapeDynamicsProperties.htm">shape dynamics properties</a><span>. Select first the base dynamic shape (i.e.<span> </span></span><em>robot_dyn</em><span>), </span></span></span></p>
+<p><span><span><span>我們在<a href="http://www.coppeliarobotics.com/helpFiles/en/shapeDynamicsProperties.htm"><span><span>形狀動力學屬性中</span></span></a><span><span>執行此操作</span><span>。</span><span>首先選擇基本動態形狀（即</span></span><em><span><span>robot_dyn</span></span></em><span><span>），</span></span></span></span></span></p>
+<p><span><span><span>then check the<span> </span></span><strong>Body is respondable</strong><span><span> </span>item. Enable the first 4<span> </span></span><strong>Local respondable mask</strong><span><span> </span>flags, and disable the last 4<span> </span></span><strong>Local respondable mask</strong><span><span> </span>flags: </span></span></span></p>
+<p><span><span><span>然後檢查“ <strong><span><span>主體”是否為可響應</span></span></strong><span><span>項。</span><span>啟用前四個“<span> </span></span></span><strong><span><span>本地可響應掩碼”</span></span></strong><span><span>標誌，並禁用後四個“<span> </span></span></span><strong><span><span>本地可響應掩碼”</span></span></strong><span><span>標誌：</span></span></span></span></span></p>
+<p><span><span><span>it is important for consecutive respondable links not to collide with each other. For the first mobile dynamic link in our robot (i.e.<span> </span></span><em>robot_link_dyn1</em><span>),</span></span></span></p>
+<p><span><span><span>對於連續的可響應鏈接不要彼此衝突非常重要。對於機器人中的第一個移動動態鏈接（即<em><span><span>robot_link_dyn1</span></span></em><span><span>），</span></span></span></span></span></p>
+<p><span><span><span> we also enable the<span> </span></span><strong>Body is respondable</strong><span><span> </span>item, but this time we disable the first 4<span> </span></span><strong>Local respondable mask</strong><span><span> </span>flags, and enable the last 4<span> </span></span><strong>Local respondable mask</strong><span><span> </span>flags.</span></span></span></p>
+<p><span><span><span>我們還啟用了“ <strong><span><span>身體可響應”</span></span></strong><span><span>項，但是這次我們禁用了前四個“<span> </span></span></span><strong><span><span>本地可響應”掩碼</span></span></strong><span><span>標誌，並啟用最後4個</span></span><strong><span><span>本地可響應掩碼</span></span></strong><span><span>標誌。</span></span></span></span></span></p>
+<p><span><span><span> We repeat the above procedure with all other dynamic links, while always alternating the<span> </span></span><strong>Local respondable mask</strong><span><span> </span>flags:</span></span></span></p>
+<p><span><span><span>我們對所有其他動態鏈接重複上述過程，同時始終交替使用<strong><span><span>Local Responsible Mask</span></span></strong><span><span>標誌：</span></span></span></span></span></p>
+<p><span><span><span>once the model will be defined, consecutive dynamic shapes of the robot will not generate any collision response when interacting with each other.</span></span></span></p>
+<p><span><span><span>一旦定義了模型，則連續的機器人動態形狀在彼此交互時不會產生任何碰撞響應。</span></span></span></p>
+<p><span><span><span> Try to always end up with a construction where the dynamic base of the robot, and the dynamic last link of the robot have only the first 4<span> </span></span><strong>Local respondable mask</strong><span><span> </span>flags enabled, </span></span></span></p>
+<p><span><span><span>束嘗試始終以這樣一種構造結：機器人的動態基礎和機器人的動態最後一個鏈接僅啟用了前4個“ <strong><span><span>本地可響應掩碼”</span></span></strong><span><span>標誌，</span></span></span></span></span></p>
+<p><span><span><span>so that we can attach the robot to a mobile platform, or attach a gripper to the last dynamic link of the robot without dynamic collision interferences.</span>。</span></span><a href="http://www.coppeliarobotics.com/helpFiles/en/commonPropertiesDialog.htm"><span></span></a><span></span></p>
+<p><span><span>以便我們可以將機器人附加到移動平台，或附加一個抓取器連接到機器人的最後一個動態鏈接，沒有動態碰撞干擾。</span></span></p>
+<p><span><span>Finally, we still need to tag our dynamic shapes as <strong>Body is dynamic</strong><span>. </span></span></span></p>
+<p><span><span><span>最後，我們仍然需要將動態形狀標記為<strong><span><span>Body is dynamic</span></span></strong><span><span>。</span></span></span></span></span></p>
+<p><span><span><span>We do this also in the<span> </span></span><a href="http://www.coppeliarobotics.com/helpFiles/en/shapeDynamicsProperties.htm">shape dynamics properties</a><span>. We can then enter the mass and inertia tensor properties manually,</span></span></span></p>
+<p><span><span><span>我們也在<a href="http://www.coppeliarobotics.com/helpFiles/en/shapeDynamicsProperties.htm"><span><span>形狀動力學屬性中</span></span></a><span><span>執行此操作</span><span>。</span><span>然後，我們可以手動輸入質量和慣性張量屬性，</span></span></span></span></span></p>
+<p><span><span><span> or have those values automatically computed (recommended) by clicking<span> </span></span><strong>Compute mass &amp; inertia properties for selected convex shapes</strong><span>. </span></span></span></p>
+<p><span><span><span>或者通過單擊“ <strong><span><span>計算選定凸形的質量和慣性屬性”來</span></span></strong><span><span>自動計算（推薦）那些值</span><span>。</span></span></span></span></span></p>
+<p><span><span><span>Remember also<span> </span></span><a href="http://www.coppeliarobotics.com/helpFiles/en/designingDynamicSimulations.htm#masses">this</a><span><span> </span>and<span> </span></span><a href="http://www.coppeliarobotics.com/helpFiles/en/designingDynamicSimulations.htm#inertias">that</a><span><span> </span>dynamic design considerations. </span></span></span></p>
+<p><span><span><span>還請記住<a href="http://www.coppeliarobotics.com/helpFiles/en/designingDynamicSimulations.htm#masses"><span><span>這一點</span></span></a><span><span>以及</span></span><a href="http://www.coppeliarobotics.com/helpFiles/en/designingDynamicSimulations.htm#inertias"><span><span>該</span></span></a><span><span>動態設計注意事項。</span></span></span></span></span></p>
+<p><span><span><span>This dynamic base of the robot is a special case: most of the time we want the base of the robot (i.e.<span> </span></span><em>robot_dyn</em><span>) to be non-dynamic (i.e. static), </span></span></span></p>
+<p><span><span><span>機器人的動態基礎是一個特例：大多數情況下，我們需要機器人的基礎（即<em><span><span>robot_dyn</span></span></em><span><span>）為非動態（即靜態），</span></span></span></span></span></p>
+<p><span>otherwise, if used alone, the robot might fall during movement.</span></p>
+<p><span>否則，如果單獨使用，則機器人可能會在運動過程中掉落。</span></p>
+<p><span> But as soon as we attach the base of the robot to a mobile platform, we want the base to become dynamic (i.e. non-static).</span></p>
+<p><span>但是，一旦我們將機器人的底座連接到移動平台上，我們就希望底座變得動態（即非靜態）。</span></p>
+<p><span> We do this by enabling the<span> </span></span><strong>Set to dynamic if gets parent</strong><span><span> </span>item, then disabling the</span><strong><span> </span>Body is dynamic item</strong><span>.</span></p>
+<p><span>我們通過啟用“ <strong><span><span>如果獲取父</span></span></strong><span><span>項時</span><strong><span>設置為動態”</span></strong><span>項，然後禁用“<span> </span></span></span><strong><span><span>主體為動態項”<span> </span></span></span></strong><span><strong><span>來</span></strong><span>做到這一點</span><span>。</span><span>現在運行仿真：</span></span></span></p>
+<p><span> Now run the simulation: all dynamic shapes, except for the base of the robot, should fall. That attached visual shapes will follow their dynamic pendants.</span></p>
+<p><span><span>除了機器人的基座之外，所有動態形狀都應下降。</span><span>附加的視覺形狀將跟隨其動態吊墜。</span></span></p>
 <h1><span>inventor</span></h1>
 <p><span>Inventor是美国AutoDesk公司推出的一款三维可视化实体模拟软件Autodesk Inventor Professional（AIP），目前已推出最新版本AIP2019。同时还推出了iphone版本，在<a data-lemmaid="9970575" href="https://baike.baidu.com/item/app%20store/9970575" target="_blank">app store</a><span>有售。Autodesk Inventor Professional包括Autodesk Inventor三维设计软件；基于AutoCAD平台开发的二维机械制图和详图软件AutoCAD Mechanical；还加入了用于缆线和束线设计、管道设计及PCB IDF文件输入的专业功能模块，并加入了由业界领先的ANSYS技术支持的FEA功能，可以直接在Autodesk Inventor软件中进行应力分析。在此基础上，集成的数据管理软件Autodesk Vault-用于安全地管理进展中的设计数据。</span></span></p>
 <div class="para" label-module="para">由于Autodesk Inventor Professional集所有这些产品于一体，因此提供了一个无风险的二维到三维转换路径，您能以自己的进度转换到三维，保护的二维图形和知识投资，并且清楚地知道自己在使用目前市场上DWG兼容性最强的平台。Autodesk Inventor Professional软件是一套全面的设计工具，用于创建和验证完整的数字样机；帮助制造商减少物理样机投入，以更快的速度将更多的创新产品推向市场。</div>
