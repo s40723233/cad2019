@@ -18,56 +18,70 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20200110134519.1"><vh>快捷鍵</vh>
+<v t="leo.20200110134519.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192731.1"><vh>W1</vh>
-<v t="leo.20191031192731.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115111.1"><vh>封面投影片</vh>
+<v t="leo.20200110115111.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192720.1"><vh>W2</vh>
-<v t="leo.20191031192720.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115044.1"><vh>封面投影片</vh>
+<v t="leo.20200110115044.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192749.1"><vh>W3</vh>
-<v t="leo.20191031192749.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115103.1"><vh>封面投影片</vh>
+<v t="leo.20200110115103.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192800.1"><vh>W4</vh>
-<v t="leo.20191031192800.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115109.1"><vh>封面投影片</vh>
+<v t="leo.20200110115109.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031204020.1"><vh>W5</vh>
-<v t="leo.20191031204020.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115046.1"><vh>封面投影片</vh>
+<v t="leo.20200110115046.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031205658.1"><vh>W6</vh>
-<v t="leo.20191031205658.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115108.1"><vh>封面投影片</vh>
+<v t="leo.20200110115108.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192809.1"><vh>W7</vh>
-<v t="leo.20191031192809.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115106.1"><vh>封面投影片</vh>
+<v t="leo.20200110115106.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192838.1"><vh>W8</vh>
-<v t="leo.20191031192838.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115104.1"><vh>封面投影片</vh>
+<v t="leo.20200110115104.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191227173531.1"><vh>W9</vh>
-<v t="leo.20191227173531.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115059.1"><vh>封面投影片</vh>
+<v t="leo.20200110115059.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192845.1"><vh>W10</vh>
-<v t="leo.20191031192845.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115102.1"><vh>封面投影片</vh>
+<v t="leo.20200110115102.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191204175147.1"><vh>W12</vh>
-<v t="leo.20191204175147.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115100.1"><vh>封面投影片</vh>
+<v t="leo.20200110115100.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191227175615.1"><vh>W13</vh>
-<v t="leo.20191227175615.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115058.1"><vh>封面投影片</vh>
+<v t="leo.20200110115058.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191227175846.1"><vh>W14</vh>
-<v t="leo.20191227175846.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115056.1"><vh>封面投影片</vh>
+<v t="leo.20200110115056.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191227190829.1"><vh>W15</vh>
-<v t="leo.20191227190829.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115055.1"><vh>封面投影片</vh>
+<v t="leo.20200110115055.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191227191209.1"><vh>W16</vh>
-<v t="leo.20191227191209.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110115053.1"><vh>封面投影片</vh>
+<v t="leo.20200110115053.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200103221859.1"><vh>W17</vh>
-<v t="leo.20200103221859.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
+<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
+<v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -81,6 +95,37 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
 
+### 40723233
+####week2~5
+####week2 建立自己的倉儲和cad2019網站
+####week3 執行編譯 Solvespace
+####week 4完成WEEK3的倉儲設定以及網站。
+####week 5solvespace建立模型。
+</t>
+<t tx="leo.20180902120523.11">## CMSimfly 網際內容管理
+
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20180902120523.12">### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20180902120523.13">## CMSimfly 網際內容管理
+@others
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
 ### KMOLab
 
 &lt;small&gt;
@@ -89,6 +134,193 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 [CMSimfly 網誌](./../blog/index.html)
 
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+</t>
+<t tx="leo.20180902120523.14">
+### KMOLab
+
+@others
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20180902120523.15">&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+</t>
+<t tx="leo.20180902120523.16">## CMSimfly 網際內容管理
+
+### KMOLab
+@others
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
+### KMOLab
+</t>
+<t tx="leo.20180902120523.17">
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+@language python
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+建立自己的倉儲和cad2019網站
+
+</t>
+<t tx="leo.20180902120523.18">
+&lt;small&gt;
+@others
+
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20180902120523.19">Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
 
 </t>
 <t tx="leo.20180902120523.2"></t>
@@ -179,6 +411,11 @@ CMSimfly 網際內容管理
 <t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 </t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
@@ -256,55 +493,260 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20191031192720.1">@others
-</t>
-<t tx="leo.20191031192720.2"></t>
-<t tx="leo.20191031192731.1">@others
-</t>
-<t tx="leo.20191031192731.2">建立自己的倉儲和cad2019網站
+<t tx="leo.20200110115044.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
 
-並下載子cmsimde建立新的網頁。</t>
-<t tx="leo.20191031192749.1">@others
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20191031192749.2"></t>
-<t tx="leo.20191031192800.1">@others
+<t tx="leo.20200110115044.2">#Week 7
+##使用v-rap控制模型
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0Z_kFuPI0NY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20191031192800.2"></t>
-<t tx="leo.20191031192809.1">@others
+<t tx="leo.20200110115046.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20191031192809.2"></t>
-<t tx="leo.20191031192838.1">@others
+<t tx="leo.20200110115046.2">#Week10-14
+##開始協同倉儲</t>
+<t tx="leo.20200110115053.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20191031192838.2"></t>
-<t tx="leo.20191031192845.1">@others
+<t tx="leo.20200110115053.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191031192845.2"></t>
-<t tx="leo.20191031204020.1">@others
+<t tx="leo.20200110115055.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20191031204020.2"></t>
-<t tx="leo.20191031205658.1">@others
+<t tx="leo.20200110115055.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191031205658.2"></t>
-<t tx="leo.20191204175147.1">@others
+<t tx="leo.20200110115056.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20191204175147.2"></t>
-<t tx="leo.20191227173531.1">@others
+<t tx="leo.20200110115056.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191227173531.2"></t>
-<t tx="leo.20191227175615.1">@others
+<t tx="leo.20200110115058.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20191227175615.2"></t>
-<t tx="leo.20191227175846.1">@others
+<t tx="leo.20200110115058.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191227175846.2"></t>
-<t tx="leo.20191227190829.1">@others
+<t tx="leo.20200110115059.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20191227190829.2"></t>
-<t tx="leo.20191227191209.1">@others
+<t tx="leo.20200110115059.2">#Week 14
+##NX-12-for-Engineering-Design
+&lt;iframe width="560" height="315" src="https://s40723233.github.io/cad2019/images/1.jpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110115100.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20191227191209.2"></t>
-<t tx="leo.20200103221859.1">@others
+<t tx="leo.20200110115100.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20200103221859.2"></t>
+<t tx="leo.20200110115102.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20200110115102.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110115103.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20200110115103.2">#Week 8
+##導入 Webots 以ssh 對 Github 連線
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WuxXDeClLB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110115104.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20200110115104.2">#Week 13
+##Space Modeling with SolidWorks and NX
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HRp_2Fgo9Uc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110115106.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20200110115106.2">#Week 12
+##Webots Tutorial 練習
+</t>
+<t tx="leo.20200110115108.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20200110115108.2">#Week 11
+##Batch Command設定
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qKlIqdLnLvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110115109.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20200110115109.2">#期中報告
+
+</t>
+<t tx="leo.20200110115111.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20200110115111.2">#Week 6
+##建立汽車模型
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RfHPYscVAew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110134519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110134519.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
 </tnodes>
 </leo_file>
