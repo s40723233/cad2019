@@ -18,56 +18,47 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20180902120523.9"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113003.1"><vh>w2</vh>
+<v t="leo.20200110113003.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192731.1"><vh>W1</vh>
-<v t="leo.20191031192731.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113001.1"><vh>w3</vh>
+<v t="leo.20200110113001.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192720.1"><vh>W2</vh>
-<v t="leo.20191031192720.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110112959.1"><vh>w4</vh>
+<v t="leo.20200110112959.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192749.1"><vh>W3</vh>
-<v t="leo.20191031192749.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110112957.1"><vh>w5</vh>
+<v t="leo.20200110112957.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192800.1"><vh>W4</vh>
-<v t="leo.20191031192800.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110112955.1"><vh>w6</vh>
+<v t="leo.20200110112955.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031204020.1"><vh>W5</vh>
-<v t="leo.20191031204020.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110112952.1"><vh>w7</vh>
+<v t="leo.20200110112952.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031205658.1"><vh>W6</vh>
-<v t="leo.20191031205658.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110112950.1"><vh>w8</vh>
+<v t="leo.20200110112950.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192809.1"><vh>W7</vh>
-<v t="leo.20191031192809.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113140.1"><vh>w9</vh>
+<v t="leo.20200110113140.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192838.1"><vh>W8</vh>
-<v t="leo.20191031192838.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113244.1"><vh>w10</vh>
+<v t="leo.20200110113244.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191227173531.1"><vh>W9</vh>
-<v t="leo.20191227173531.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113248.1"><vh>w11</vh>
+<v t="leo.20200110113248.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191031192845.1"><vh>W10</vh>
-<v t="leo.20191031192845.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113250.1"><vh>w12</vh>
+<v t="leo.20200110113250.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191204175147.1"><vh>W12</vh>
-<v t="leo.20191204175147.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113251.1"><vh>w13</vh>
+<v t="leo.20200110113251.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191227175615.1"><vh>W13</vh>
-<v t="leo.20191227175615.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113253.1"><vh>w14</vh>
+<v t="leo.20200110113253.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191227175846.1"><vh>W14</vh>
-<v t="leo.20191227175846.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20191227190829.1"><vh>W15</vh>
-<v t="leo.20191227190829.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20191227191209.1"><vh>W16</vh>
-<v t="leo.20191227191209.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20200103221859.1"><vh>W17</vh>
-<v t="leo.20200103221859.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113255.1"><vh>w15</vh>
+<v t="leo.20200110113255.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -79,18 +70,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
-
-### KMOLab
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
@@ -176,10 +155,6 @@ CMSimfly 網際內容管理
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-</t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -256,55 +231,271 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20191031192720.1">@others
-</t>
-<t tx="leo.20191031192720.2"></t>
-<t tx="leo.20191031192731.1">@others
-</t>
-<t tx="leo.20191031192731.2">建立自己的倉儲和cad2019網站
+<t tx="leo.20200110112950.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
 
-並下載子cmsimde建立新的網頁。</t>
-<t tx="leo.20191031192749.1">@others
+並下載子cmsimde建立新的網頁。
 </t>
-<t tx="leo.20191031192749.2"></t>
-<t tx="leo.20191031192800.1">@others
+<t tx="leo.20200110112950.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191031192800.2"></t>
-<t tx="leo.20191031192809.1">@others
+<t tx="leo.20200110112952.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
 </t>
-<t tx="leo.20191031192809.2"></t>
-<t tx="leo.20191031192838.1">@others
+<t tx="leo.20200110112952.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191031192838.2"></t>
-<t tx="leo.20191031192845.1">@others
+<t tx="leo.20200110112955.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
 </t>
-<t tx="leo.20191031192845.2"></t>
-<t tx="leo.20191031204020.1">@others
+<t tx="leo.20200110112955.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191031204020.2"></t>
-<t tx="leo.20191031205658.1">@others
+<t tx="leo.20200110112957.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
 </t>
-<t tx="leo.20191031205658.2"></t>
-<t tx="leo.20191204175147.1">@others
+<t tx="leo.20200110112957.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191204175147.2"></t>
-<t tx="leo.20191227173531.1">@others
+<t tx="leo.20200110112959.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
 </t>
-<t tx="leo.20191227173531.2"></t>
-<t tx="leo.20191227175615.1">@others
+<t tx="leo.20200110112959.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191227175615.2"></t>
-<t tx="leo.20191227175846.1">@others
+<t tx="leo.20200110113001.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
 </t>
-<t tx="leo.20191227175846.2"></t>
-<t tx="leo.20191227190829.1">@others
+<t tx="leo.20200110113001.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20191227190829.2"></t>
-<t tx="leo.20191227191209.1">@others
+<t tx="leo.20200110113003.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
 </t>
-<t tx="leo.20191227191209.2"></t>
-<t tx="leo.20200103221859.1">@others
+<t tx="leo.20200110113003.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
 </t>
-<t tx="leo.20200103221859.2"></t>
+<t tx="leo.20200110113140.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+</t>
+<t tx="leo.20200110113140.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113244.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+</t>
+<t tx="leo.20200110113244.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113248.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+</t>
+<t tx="leo.20200110113248.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113250.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+</t>
+<t tx="leo.20200110113250.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113251.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+</t>
+<t tx="leo.20200110113251.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113253.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+</t>
+<t tx="leo.20200110113253.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113255.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+</t>
+<t tx="leo.20200110113255.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
 </tnodes>
 </leo_file>
