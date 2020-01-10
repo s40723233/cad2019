@@ -18,6 +18,9 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20200110122738.1"><vh>封面投影片</vh>
+<v t="leo.20200110122738.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
@@ -1040,6 +1043,27 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;script type="text/template"&gt;
 </t>
 <t tx="leo.20200110122233.2">#期中報告
+
+</t>
+<t tx="leo.20200110122738.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+建立自己的倉儲和cad2019網站
+
+並下載子cmsimde建立新的網頁。
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20200110122738.2">## CMSimfly 網際內容管理
+
+### KMOLab
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
 
 </t>
 </tnodes>
