@@ -908,18 +908,8 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20200110122222.2">## CMSimfly 網際內容管理
-
-### KMOLab
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
+<t tx="leo.20200110122222.2">#Week 16
+##車子零組件設計</t>
 <t tx="leo.20200110122224.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -929,18 +919,8 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20200110122224.2">## CMSimfly 網際內容管理
-
-### KMOLab
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
+<t tx="leo.20200110122224.2">#Week 17
+##</t>
 <t tx="leo.20200110122225.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -974,18 +954,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20200110122228.2">## CMSimfly 網際內容管理
-
-### KMOLab
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
+<t tx="leo.20200110122228.2">#Week 15
+##學習成果回報
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yt0tGqDGZso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200110122229.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
